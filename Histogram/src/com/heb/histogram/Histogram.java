@@ -195,7 +195,7 @@ public class Histogram {
 	
 	
 	/**
-	 * Increment a value by delta and return the new value.
+	 * Sorts Map Ascending or Descending
 	 *
 	 * @param unsortMap  this is an unsorted Map
 	 *            
